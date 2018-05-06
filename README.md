@@ -1,2 +1,2 @@
 # House-Finder
-A sample of a project for collecting rental data in Japan
+A sample of a project involving the scraping of rental data for the central districts of Tokyo, Japan
