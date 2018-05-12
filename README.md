@@ -1,2 +1,2 @@
 # Collecting Tokyo rental data
-A sample of a project involving the scraping of rental data for the central districts of Tokyo, Japan
+The purpose of this project is to create a dataset of rental properties and their attributes, by scraping content from Japanese real estate websites, extracting the key information and appending it to a Pandas dataframe. This is the first project that I attempted on my own and was a good introduction to how to collect data from the web. I would like to continue working on this project in the future.
